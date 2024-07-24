@@ -1,0 +1,11 @@
+body {
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: burlywood;
+}
+
+hr {
+    height: 5px;
+    background-color: black;
+    border: none;
+}
